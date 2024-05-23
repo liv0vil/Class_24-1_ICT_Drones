@@ -1,0 +1,63 @@
+2024-05-23 07:08:53,431 - Acc - INFO - [ARG] arg.data_path: cifar10
+2024-05-23 07:08:53,431 - Acc - INFO - [ARG] arg.dataset: cifar10
+2024-05-23 07:08:53,431 - Acc - INFO - [ARG] arg.class_num: 10
+2024-05-23 07:08:53,431 - Acc - INFO - [ARG] arg.initial: 1000
+2024-05-23 07:08:53,432 - Acc - INFO - [ARG] arg.selected: 1000
+2024-05-23 07:08:53,432 - Acc - INFO - [ARG] arg.sampling_num: 10000
+2024-05-23 07:08:53,432 - Acc - INFO - [ARG] arg.cycle_num: 10
+2024-05-23 07:08:53,432 - Acc - INFO - [ARG] arg.approach: Random
+2024-05-23 07:08:53,432 - Acc - INFO - [ARG] arg.seed: 0
+2024-05-23 07:08:53,432 - Acc - INFO - [ARG] arg.save_name: jobs/cifar10__approach-Random/Init1000_S10000_B1000//Seed-0
+2024-05-23 07:08:53,432 - Acc - INFO - [ARG] arg.milestones: [160]
+2024-05-23 07:08:53,432 - Acc - INFO - [ARG] arg.epoch_num: 200
+2024-05-23 07:08:53,432 - Acc - INFO - [ARG] arg.momentum: 0.9
+2024-05-23 07:08:53,432 - Acc - INFO - [ARG] arg.wdecay: 0.0005
+2024-05-23 07:08:53,432 - Acc - INFO - [ARG] arg.batch_size: 128
+2024-05-23 07:08:53,432 - Acc - INFO - [ARG] arg.workers: 0
+2024-05-23 07:08:53,432 - Acc - INFO - [ARG] arg.lr: 0.1
+2024-05-23 07:08:53,432 - Acc - INFO - [ARG] arg.arch: resnet18
+2024-05-23 07:08:53,432 - Acc - INFO - [ARG] arg.layer: 1
+2024-05-23 07:08:53,432 - Acc - INFO - [ARG] arg.alpha: 0.4
+2024-05-23 07:08:53,432 - Acc - INFO - [ARG] arg.hidden_units: 128
+2024-05-23 07:08:53,432 - Acc - INFO - [ARG] arg.dropout_rate: 0.3
+2024-05-23 07:08:53,432 - Acc - INFO - [ARG] arg.lambda_loss: 1.2
+2024-05-23 07:08:53,433 - Acc - INFO - [ARG] arg.s_margin: 0.1
+2024-05-23 07:08:53,433 - Acc - INFO - [ARG] arg.epochl: 120
+2024-05-23 07:08:53,433 - Acc - INFO - [ARG] arg.lossnet_feature: [32, 16, 8, 4]
+2024-05-23 07:08:53,433 - Acc - INFO - [ARG] arg.latent_dim: 32
+2024-05-23 07:08:53,433 - Acc - INFO - [ARG] arg.num_adv_steps: 1
+2024-05-23 07:08:53,433 - Acc - INFO - [ARG] arg.num_vae_steps: 2
+2024-05-23 07:08:53,433 - Acc - INFO - [ARG] arg.pretrained_weight: None
+2024-05-23 07:09:46,898 - Acc - INFO - [ARG] arg.data_path: /data1/dataset/cifar10/
+2024-05-23 07:09:46,898 - Acc - INFO - [ARG] arg.dataset: cifar10
+2024-05-23 07:09:46,898 - Acc - INFO - [ARG] arg.class_num: 10
+2024-05-23 07:09:46,898 - Acc - INFO - [ARG] arg.initial: 1000
+2024-05-23 07:09:46,898 - Acc - INFO - [ARG] arg.selected: 1000
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.sampling_num: 10000
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.cycle_num: 10
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.approach: Random
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.seed: 0
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.save_name: jobs/cifar10__approach-Random/Init1000_S10000_B1000//Seed-0
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.milestones: [160]
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.epoch_num: 200
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.momentum: 0.9
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.wdecay: 0.0005
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.batch_size: 128
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.workers: 0
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.lr: 0.1
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.arch: resnet18
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.layer: 1
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.alpha: 0.4
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.hidden_units: 128
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.dropout_rate: 0.3
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.lambda_loss: 1.2
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.s_margin: 0.1
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.epochl: 120
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.lossnet_feature: [32, 16, 8, 4]
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.latent_dim: 32
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.num_adv_steps: 1
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.num_vae_steps: 2
+2024-05-23 07:09:46,899 - Acc - INFO - [ARG] arg.pretrained_weight: None
+2024-05-23 07:11:17,793 - Acc - INFO - Cycle 1/10 || Label set size 1000: Test acc 46.88
+2024-05-23 07:14:13,217 - Acc - INFO - Cycle 2/10 || Label set size 2000: Test acc 56.66
+2024-05-23 07:18:33,665 - Acc - INFO - Cycle 3/10 || Label set size 3000: Test acc 66.21
